@@ -1,0 +1,54 @@
+page {
+
+}
+view {
+  font-size: 26px !important;
+}
+.common-title {
+  padding: 18px;
+  font-size: 28px;
+  .text{
+    border-left: 6px solid #37383a;
+    padding-left: 12px;
+    font-weight: bold;
+  }
+}
+.textColor1 {
+  color: #ff9900;
+  text-decoration: underline;
+  font-size: 24px;
+}
+
+.marginTop15 {
+  margin-top: 15px;
+}
+.marginTop20 {
+  margin-top: 20px;
+}
+.marginTop40 {
+  margin-top: 40px;
+}
+
+.paddingLeft10 {
+  padding-left: 10px;
+}
+.paddingLeft15 {
+  padding-left: 15px;
+}
+
+.textCenter {
+  text-align: center;
+}
+.fontSize22 {
+  font-size: 22px !important;
+}
+
+
+/*所有list的board的样式*/
+.listBoardCss {
+  border: 2px solid #C5D9E8;
+  cursor: pointer;
+  margin-top: 10px;
+  padding: 12px;
+}
+

@@ -1,0 +1,28 @@
+.borderCss {
+  border: 3px solid #13CE66;
+  border-radius: 10px;
+  padding: 50px 0px;
+  background: #FAFBFC;
+}
+
+.avatarContent {
+  position: absolute;
+  top: 50px;
+  left: calc(50% - 50px);
+}
+
+.text_nickName {
+  color: #1c2438;
+  font-weight: bold;
+}
+.text_login {
+  color: #5cadff;
+  text-decoration: underline;
+}
+.text_my {
+  color: #1c2438;
+  border:1px solid #C5D9E8;
+  padding:3px;
+  border-radius:8px;
+
+}
